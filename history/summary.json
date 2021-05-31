@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 253,
-    "timeWeek": 355,
-    "timeMonth": 348,
-    "timeYear": 348,
+    "time": 356,
+    "timeDay": 440,
+    "timeWeek": 383,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://seoanalyzer.io/theme/default/img/favicon.png",
     "slug": "seo-analyzer",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "91.86%",
+    "uptimeDay": "17.55%",
+    "uptimeWeek": "88.22%",
+    "uptimeMonth": "91.86%",
+    "uptimeYear": "91.86%",
     "time": 422,
-    "timeDay": 448,
-    "timeWeek": 431,
+    "timeDay": 0,
+    "timeWeek": 433,
     "timeMonth": 422,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2021-05-30": 9
+      "2021-05-31": 154,
+      "2021-05-30": 1033
     }
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://seogadgetry.com/uploads/favicon.ico",
     "slug": "seo-gadgetry",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "91.84%",
+    "uptimeDay": "17.65%",
+    "uptimeWeek": "88.24%",
+    "uptimeMonth": "91.84%",
+    "uptimeYear": "91.84%",
     "time": 333,
-    "timeDay": 343,
-    "timeWeek": 352,
+    "timeDay": 0,
+    "timeWeek": 350,
     "timeMonth": 333,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2021-05-30": 8
+      "2021-05-31": 154,
+      "2021-05-30": 1031
     }
   },
   {
@@ -63,18 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/datachapel.com",
     "slug": "data-chapel",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "91.85%",
+    "uptimeDay": "17.76%",
+    "uptimeWeek": "88.25%",
+    "uptimeMonth": "91.85%",
+    "uptimeYear": "91.85%",
     "time": 711,
-    "timeDay": 696,
+    "timeDay": 0,
     "timeWeek": 710,
     "timeMonth": 711,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2021-05-30": 6
+      "2021-05-31": 154,
+      "2021-05-30": 1030
     }
   },
   {
@@ -83,18 +86,19 @@
     "icon": "https://favicons.githubusercontent.com/chattech.co",
     "slug": "chattech",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "91.86%",
+    "uptimeDay": "17.87%",
+    "uptimeWeek": "88.27%",
+    "uptimeMonth": "91.86%",
+    "uptimeYear": "91.86%",
     "time": 491,
-    "timeDay": 484,
-    "timeWeek": 487,
+    "timeDay": 0,
+    "timeWeek": 479,
     "timeMonth": 491,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2021-05-30": 5
+      "2021-05-31": 154,
+      "2021-05-30": 1028
     }
   },
   {
@@ -103,18 +107,19 @@
     "icon": "https://favicons.githubusercontent.com/mytubetech.com",
     "slug": "my-tube-tech",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "91.87%",
+    "uptimeDay": "17.97%",
+    "uptimeWeek": "88.28%",
+    "uptimeMonth": "91.87%",
+    "uptimeYear": "91.87%",
     "time": 248,
-    "timeDay": 224,
-    "timeWeek": 221,
+    "timeDay": 0,
+    "timeWeek": 219,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2021-05-30": 3
+      "2021-05-31": 154,
+      "2021-05-30": 1027
     }
   },
   {
@@ -123,18 +128,19 @@
     "icon": "https://favicons.githubusercontent.com/wealthsavvy.net",
     "slug": "wealth-savvy",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "91.88%",
+    "uptimeDay": "18.08%",
+    "uptimeWeek": "88.30%",
+    "uptimeMonth": "91.88%",
+    "uptimeYear": "91.88%",
     "time": 505,
-    "timeDay": 577,
-    "timeWeek": 481,
+    "timeDay": 0,
+    "timeWeek": 520,
     "timeMonth": 505,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2021-05-30": 2
+      "2021-05-31": 154,
+      "2021-05-30": 1025
     }
   },
   {
@@ -143,18 +149,19 @@
     "icon": "https://favicons.githubusercontent.com/peepmylinks.com",
     "slug": "peep-my-links",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "91.88%",
+    "uptimeDay": "18.11%",
+    "uptimeWeek": "88.30%",
+    "uptimeMonth": "91.88%",
+    "uptimeYear": "91.88%",
     "time": 358,
-    "timeDay": 388,
+    "timeDay": 0,
     "timeWeek": 352,
     "timeMonth": 358,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2021-05-30": 1
+      "2021-05-31": 154,
+      "2021-05-30": 1025
     }
   },
   {
@@ -163,18 +170,19 @@
     "icon": "https://favicons.githubusercontent.com/wordsupplier.com",
     "slug": "word-supplier",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "91.89%",
+    "uptimeDay": "18.15%",
+    "uptimeWeek": "88.31%",
+    "uptimeMonth": "91.89%",
+    "uptimeYear": "91.89%",
     "time": 216,
-    "timeDay": 214,
+    "timeDay": 0,
     "timeWeek": 213,
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2021-05-30": 1
+      "2021-05-31": 154,
+      "2021-05-30": 1024
     }
   },
   {
@@ -183,18 +191,19 @@
     "icon": "https://favicons.githubusercontent.com/concisestrategists.com",
     "slug": "concise-strategists",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "91.89%",
+    "uptimeDay": "18.19%",
+    "uptimeWeek": "88.31%",
+    "uptimeMonth": "91.89%",
+    "uptimeYear": "91.89%",
     "time": 201,
-    "timeDay": 182,
-    "timeWeek": 210,
+    "timeDay": 0,
+    "timeWeek": 212,
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2021-05-30": 0
+      "2021-05-31": 154,
+      "2021-05-30": 1024
     }
   },
   {
@@ -208,11 +217,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1654,
-    "timeDay": 1808,
-    "timeWeek": 1784,
-    "timeMonth": 1654,
-    "timeYear": 1654,
+    "time": 1670,
+    "timeDay": 1839,
+    "timeWeek": 1801,
+    "timeMonth": 1670,
+    "timeYear": 1670,
     "dailyMinutesDown": {}
   }
 ]
