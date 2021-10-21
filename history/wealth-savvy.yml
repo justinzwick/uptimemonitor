@@ -1,7 +1,7 @@
 url: https://wealthsavvy.net
-status: up
-code: 200
-responseTime: 568
-lastUpdated: 2021-10-21T18:31:29.254Z
+status: down
+code: 500
+responseTime: 653
+lastUpdated: 2021-10-21T19:58:11.984Z
 startTime: Fri May 21 2021 00:27:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
